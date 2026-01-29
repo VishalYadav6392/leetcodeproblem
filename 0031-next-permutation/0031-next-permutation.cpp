@@ -1,40 +1,31 @@
 class Solution {
-    private:
-    void reverse(vector<int>&arr,int s,int e)
-    {
-        while(s<=e)
-        {
-            swap(arr[s],arr[e]);
-            s++;
-            e--;
-        }
-
-    }
-    
 public:
     void nextPermutation(vector<int>& nums) {
         int n=nums.size();
-        int ind=-1;
+        int index=-1;
         for(int i=n-2;i>=0;i--)
         {
-            if(nums[i]<nums[i+1])
-            {
-                ind=i;
+           if(nums[i]<nums[i+1])
+           {
+                index=i;
                 break;
-            }
+           }
+
         }
-        if(ind==-1){
-            reverse(nums,0,n-1);
+        if(index ==-1){
+            reverse(nums.begin(),nums.end());
             return;
         }
-        for(int i=n-1;i>=ind;i--)
+        for(int i=n-1;i>index;i--)
         {
-            if(nums[i]>nums[ind])
+            if(nums[i]>nums[index])
             {
-                swap(nums[i],nums[ind]);
+                swap(nums[i],nums[index]);
                 break;
             }
         }
-        reverse(nums,ind+1,n-1);
+        reverse(nums.begin() + index + 1, nums.end());
+
+        
     }
 };
