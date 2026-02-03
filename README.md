@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-trionic-array-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
