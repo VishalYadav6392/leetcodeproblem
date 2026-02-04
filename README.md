@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-trionic-array-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Vishi1811/leetcodeproblem/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
 ## Recursion
 |  |
 | ------- |
