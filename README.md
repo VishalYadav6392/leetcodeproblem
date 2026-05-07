@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Vishi1811/leetcodeproblem/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Vishi1811/leetcodeproblem/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2232-adding-spaces-to-a-string) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vishi1811/leetcodeproblem/tree/master/1197-parsing-a-boolean-expression) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vishi1811/leetcodeproblem/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Vishi1811/leetcodeproblem/tree/master/1002-maximum-width-ramp) |
