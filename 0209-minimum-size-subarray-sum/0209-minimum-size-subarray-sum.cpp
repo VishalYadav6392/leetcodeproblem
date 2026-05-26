@@ -9,13 +9,13 @@ public:
         while(right<n)
         {
             sum+=nums[right];
-            
-            while(sum>=target && left<=right)
+            while(sum >=target)
             {
                 ans=min(ans,right-left+1);
                 sum-=nums[left];
                 left++;
             }
+           
             right++;
         }
         return ans==INT_MAX?0:ans;
