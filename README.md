@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vishi1811/leetcodeproblem/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vishi1811/leetcodeproblem/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
+| [1929-concatenation-of-array](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Vishi1811/leetcodeproblem/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1929-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2343-count-unguarded-cells-in-the-grid) |
