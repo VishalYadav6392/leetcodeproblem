@@ -1,4 +1,5 @@
 class Solution {
+    private:
     ListNode* Reverse(ListNode* head)
     {
         ListNode* prev = NULL;
