@@ -1,76 +1,56 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
-public:
-    ListNode* reverse(ListNode * head)
+    ListNode* Reverse(ListNode* head)
     {
-        if(head==NULL || head->next==NULL)return head;
-        ListNode* front=head->next;
-        ListNode* back=NULL;
-        ListNode*temp=head;
+        ListNode* prev = NULL;
+        ListNode* curr = head;
 
-        while(front)
+        while(curr)
         {
-           
-            temp->next=back;
-            back=temp;
-            temp=front;
-            front=front->next;
+            ListNode* nxt = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nxt;
         }
-        temp->next=back;
-        return temp;
+
+        return prev;
     }
+
+public:
     bool isPalindrome(ListNode* head) {
-        //------>using stack-------->
-       /* stack<int>st;
-        ListNode *temp=head;
-        while(temp)
-        {
-            st.push(temp->val);
-            temp=temp->next;
-        }
-        temp=head;
-        while(temp)
-        {
-            if(temp->val!=st.top())return false;
-            st.pop();
-            temp=temp->next;
-        }
-        return true;
-        time complexity:O(n),space complexity:O(n)*/
-        
-        /*<--------Optimum solution------------->
-         time complexity:O(n),space complexity:O(n)*/ 
-         
-        ListNode *temp=head;
-        ListNode *slow=head,*fast=head;
+
+        if(!head || !head->next) return true;
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        // Find middle
         while(fast->next && fast->next->next)
         {
-            slow=slow->next;
-            fast=fast->next->next;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        ListNode *newhead=reverse(slow->next);
-        temp=head;
-        while(newhead)
+
+        // Reverse second half
+        ListNode* secondHalf = Reverse(slow->next);
+
+        ListNode* firstHalf = head;
+        ListNode* temp = secondHalf;
+
+        // Compare
+        while(temp)
         {
-            if(temp->val!=newhead->val)
+            if(firstHalf->val != temp->val)
             {
-                reverse(slow->next);
                 return false;
             }
-            temp=temp->next;
-            newhead=newhead->next;
+
+            firstHalf = firstHalf->next;
+            temp = temp->next;
         }
-      reverse(slow->next);
-       return true;
-        
+
+        // Restore list
+        slow->next = Reverse(secondHalf);
+
+        return true;
     }
 };
