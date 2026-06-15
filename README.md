@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Vishi1811/leetcodeproblem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vishi1811/leetcodeproblem/tree/master/0485-max-consecutive-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Vishi1811/leetcodeproblem/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vishi1811/leetcodeproblem/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/2323-minimum-bit-flips-to-convert-number) |
