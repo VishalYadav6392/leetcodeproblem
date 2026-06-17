@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3614-process-string-with-special-operations-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3451-string-compression-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
 | ------- |
