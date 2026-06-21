@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1732-find-the-highest-altitude) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vishi1811/leetcodeproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishi1811/leetcodeproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vishi1811/leetcodeproblem/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vishi1811/leetcodeproblem/tree/master/1917-maximum-average-pass-ratio) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vishi1811/leetcodeproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [2164-two-best-non-overlapping-events](https://github.com/Vishi1811/leetcodeproblem/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Vishi1811/leetcodeproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vishi1811/leetcodeproblem/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/2089-maximum-matrix-sum) |
@@ -866,4 +869,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vishi1811/leetcodeproblem/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Vishi1811/leetcodeproblem/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
