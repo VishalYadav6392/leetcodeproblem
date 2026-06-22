@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1189-maximum-number-of-balloons](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vishi1811/leetcodeproblem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1189-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Vishi1811/leetcodeproblem/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vishi1811/leetcodeproblem/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vishi1811/leetcodeproblem/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1304-longest-happy-string) |
