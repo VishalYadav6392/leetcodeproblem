@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1732-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
