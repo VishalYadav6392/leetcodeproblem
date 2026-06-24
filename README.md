@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Vishi1811/leetcodeproblem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
