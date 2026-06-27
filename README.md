@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vishi1811/leetcodeproblem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vishi1811/leetcodeproblem/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
 | ------- |
