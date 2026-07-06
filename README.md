@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Vishi1811/leetcodeproblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vishi1811/leetcodeproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Vishi1811/leetcodeproblem/tree/master/1288-remove-covered-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vishi1811/leetcodeproblem/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1840-maximum-building-height) |
