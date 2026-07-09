@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-trionic-array-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vishi1811/leetcodeproblem/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vishi1811/leetcodeproblem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -933,9 +936,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vishi1811/leetcodeproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vishi1811/leetcodeproblem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
