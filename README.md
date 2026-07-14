@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vishi1811/leetcodeproblem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Vishi1811/leetcodeproblem/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Tree
 |  |
 | ------- |
