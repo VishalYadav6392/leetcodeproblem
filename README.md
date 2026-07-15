@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
