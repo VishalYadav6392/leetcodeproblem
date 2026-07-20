@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vishi1811/leetcodeproblem/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vishi1811/leetcodeproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/1370-count-number-of-nice-subarrays) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Vishi1811/leetcodeproblem/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/1929-concatenation-of-array) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0787-sliding-puzzle](https://github.com/Vishi1811/leetcodeproblem/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vishi1811/leetcodeproblem/tree/master/1301-number-of-paths-with-max-score) |
 | [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
