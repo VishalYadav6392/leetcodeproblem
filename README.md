@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Vishi1811/leetcodeproblem/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3451-string-compression-iii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
