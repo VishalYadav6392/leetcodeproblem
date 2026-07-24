@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Vishi1811/leetcodeproblem/tree/master/3394-minimum-array-end) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
