@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-trionic-array-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3640-trionic-array-ii) |
+| [3731-find-missing-elements](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
