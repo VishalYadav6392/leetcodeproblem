@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vishi1811/leetcodeproblem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Vishi1811/leetcodeproblem/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vishi1811/leetcodeproblem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vishi1811/leetcodeproblem/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vishi1811/leetcodeproblem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vishi1811/leetcodeproblem/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishalYadav6392/leetcodeproblem/tree/master/3739-count-subarrays-with-majority-element-ii) |
